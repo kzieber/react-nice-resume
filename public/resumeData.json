@@ -1,108 +1,101 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"Kevin Zieber",
+    "description":"I am a full stack software engineer with a passion for learning and building. Let's make something together.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "bio":"Though I'm most experienced with full stack JavaScript, I love learning, and I've only scratched the surface of what's possible.",
+    "contactmessage":"Send me a message if you'd like to chat. I would love to hear from you!",
+    "email": "zieber.kevinr@gmail.com",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city":"Joshua Tree",
+      "state":"California"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://www.kevinzieber.dev",
+    "resumedownload":"",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
+        "name":"Medium",
+        "url":"https://zieberkr.medium.com/",
+        "className":"fa fa-pencil"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/kevin-zieber/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/kzieber",
         "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Below are some technologies with which I'm proficient or familiar mostly in order of my level of experience",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Fullstack Academy",
+        "degree":"Certified Software Engineer",
+        "graduated":"December 2020",
+        "description":"Completed a four-month, intensive full-stack software engineering program focused on the NERDS (Node, Express, React, Databases with SQL) stack"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
+        "school":"Ohio University",
+        "degree":"Bachelor of Science in Journalism, minor in Russian language",
+        "graduated":"June 2011",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
+        "company":"Smyth and The Loyalist",
+        "title":"Bar Manager",
+        "years":"September 2019 - August 2020",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
+        "company":"Bavette's Bar & Bouef",
+        "title":"Bartender / Server",
+        "years":"August 2018 - September 2019",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       }
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
-      },
-      {
-        "name":"VueJs",
-        "level":"55%"
+        "name":"JavaScript",
+        "level":"80%"
       },
       {
         "name":"ReactJs",
+        "level":"60%"
+      },
+      {
+        "name":"Redux",
         "level":"50%"
+      },
+      {
+        "name":"PostgreSQL",
+        "level":"60%"
+      },
+      {
+        "name":"Express",
+        "level":"60%"
+      },
+      {
+        "name":"Node.Js",
+        "level":"60%"
       },
       {
         "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"PHP",
-        "level":"80%"
-      },
-      {
-        "name":"Swift",
         "level":"50%"
       },
       {
-        "name":"JAVA",
-        "level":"80%"
+        "name":"Python",
+        "level":"15%"
+      },
+      {
+        "name":"Solidity",
+        "level":"15%"
       }
     ]
   },
