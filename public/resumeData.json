@@ -3,7 +3,8 @@
     "name":"Kevin Zieber",
     "description":"I am a full stack software engineer with a passion for learning and building. Let's make something together.",
     "image":"profilepic.jpg",
-    "bio":"Though I'm most experienced with full stack JavaScript, I love learning, and I've only scratched the surface of what's possible.",
+    "bio":"I am passionate about the immense democratizing potential of technology and decentralization. Though I'm most experienced with full stack JavaScript, I love learning, and I've only scratched the surface of what's possible.",
+    "bio2":"If you're interested in working together on something, please let me know. I am always looking for new projects to which I can contribute!",
     "contactmessage":"Send me a message if you'd like to chat. I would love to hear from you!",
     "email": "zieber.kevinr@gmail.com",
     "address":{
@@ -37,13 +38,13 @@
         "school":"Fullstack Academy",
         "degree":"Certified Software Engineer",
         "graduated":"December 2020",
-        "description":"Completed a four-month, intensive full-stack software engineering program focused on the NERDS (Node, Express, React, Databases with SQL) stack"
+        "description":"Completed a four-month, intensive full-stack software engineering program focused on the NERDS (Node, Express, React, Databases with SQL) stack."
       },
       {
         "school":"Ohio University",
         "degree":"Bachelor of Science in Journalism, minor in Russian language",
         "graduated":"June 2011",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":""
       }
     ],
     "work":[
@@ -51,13 +52,13 @@
         "company":"Smyth and The Loyalist",
         "title":"Bar Manager",
         "years":"September 2019 - August 2020",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Supervised bar team of six. Managed expenses and inventory, responsible for ordering all beer and liquor. Responsible for coming up with new cocktails, pricing, implementation, and staff training.."
       },
       {
         "company":"Bavette's Bar & Bouef",
         "title":"Bartender / Server",
         "years":"August 2018 - September 2019",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Delivered high-end customer service. Enhanced upscale bar standards. Provided top-notch, personalized hospitality in a high-volume setting. Maintained high levels of service in high pressure situations."
       }
     ],
     "skills":[
@@ -102,34 +103,16 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Topper",
+        "category":"A Chrome extension and progressive web app that allows direct cryptocurrency payments between social platform users",
+        "image": "topper.png",
+        "url":"https://topper-fsa.herokuapp.com"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Would You Like This?",
+        "category":"Fully functioning ecommerce site built in just 10 days for Fullstack Academy",
+        "image":"would-you-like-this.ico",
+        "url":"https://would-you-like-this.herokuapp.com/products"
       }
     ]
   }
