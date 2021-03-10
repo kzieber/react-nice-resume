@@ -11,7 +11,7 @@
       "city":"Joshua Tree",
       "state":"California"
     },
-    "website": "http://www.kevinzieber.dev",
+    "website": "http://www.kevinzieber.com",
     "resumedownload":"",
     "social":[
       {
@@ -103,14 +103,20 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Haciendas",
+        "category":"An interactive game to introduce regular people to the world of decentralized finance.",
+        "image": "haciendas.png",
+        "url":"https://haciendas.xyz"
+      },
+      {
         "title":"Topper",
-        "category":"A Chrome extension and progressive web app that allows direct cryptocurrency payments between social platform users",
+        "category":"A Chrome extension and progressive web app that allows direct cryptocurrency payments between social platform users.",
         "image": "topper.png",
         "url":"https://topper-fsa.herokuapp.com"
       },
       {
         "title":"Would You Like This?",
-        "category":"Fully functioning ecommerce site built in just 10 days for Fullstack Academy",
+        "category":"Fully functioning ecommerce site built in just 10 days for Fullstack Academy.",
         "image":"would-you-like-this.ico",
         "url":"https://would-you-like-this.herokuapp.com/products"
       }
